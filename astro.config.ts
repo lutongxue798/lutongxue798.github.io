@@ -14,7 +14,7 @@ import { SITE } from "./src/config";
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
-  base: '/personal-website', // GitHub Pages 部署时需要设置 base 为仓库名
+  // base: '/personal-website', // GitHub Pages 部署时需要设置 base 为仓库名（用户页面不需要）
   integrations: [
     sitemap({
       filter: page => SITE.showArchives || !page.endsWith("/archives"),
