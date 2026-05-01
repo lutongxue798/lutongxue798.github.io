@@ -1,6 +1,6 @@
 export const SITE = {
-  website: "https://lutongxue798.github.io/personal-website/", // GitHub Pages URL
-  author: "你的名字", // 请修改为你的名字
+  website: "https://lutongxue798.github.io", // GitHub Pages URL
+  author: "路同学", // 请修改为你的名字
   profile: "https://github.com/lutongxue798", // GitHub 主页
   desc: "欢迎来到我的个人网站！这里分享我的技术思考和生活感悟。", // 网站描述
   title: "我的个人网站", // 网站标题

@@ -6,10 +6,9 @@ description: "了解更多关于我的信息"
 
 # 你好！👋
 
-欢迎来到我的个人网站！我是[你的名字]，一名热爱技术的开发者/设计师/创作者。
+欢迎来到我的个人网站！我是[你的名字]，一名热爱技术的开发者
 
-![个人照片](public/astropaper-og.jpg)
-*注：请将此图片替换为你的个人照片*
+<!-- ![个人照片](public/astropaper-og.jpg) -->
 
 ## 关于我
 
@@ -18,7 +17,6 @@ description: "了解更多关于我的信息"
 ## 技能
 
 - **前端开发**：HTML, CSS, JavaScript, React, Vue, Astro
-- **后端开发**：Node.js, Python, [其他后端技术]
 - **工具**：Git, Docker, [其他工具]
 - **语言**：中文, English
 
@@ -35,8 +33,7 @@ description: "了解更多关于我的信息"
 如果你想和我交流，可以通过以下方式联系我：
 
 - GitHub：[yourusername](https://github.com/yourusername)
-- Email：[your.email@example.com](mailto:your.email@example.com)
-- Twitter/微博：[@yourusername](https://twitter.com/yourusername)
+- Email：[your.email@example.com](mailto:1365240681@qq.com)
 
 ## 网站说明
 
