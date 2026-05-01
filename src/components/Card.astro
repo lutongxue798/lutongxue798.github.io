@@ -11,11 +11,16 @@ type Props = {
 const { variant: Heading = "h2", id, data, filePath } = Astro.props;
 
 const { title, description, ...props } = data;
+
+// Get the base path from Astro.config
+const basePath = "/personal-website";
+const postPath = getPath(id, filePath);
+const fullUrl = `${basePath}${postPath}`;
 ---
 
 <li class="my-6">
   <a
-    href={getPath(id, filePath)}
+    href={fullUrl}
     class:list={[
       "inline-block text-lg font-medium text-accent",
       "decoration-dashed underline-offset-4 hover:underline",
